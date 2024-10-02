@@ -16,7 +16,7 @@ la informática.*
 ![SC](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-Nil-Ortega---ILOVEYOU-Virus/blob/main/SC.png "Titulo opcional de la imagen")
 
 |Acción del virus| Descripción|
-|---------------:|---------------:|
+|---------------|---------------|
 |Autoenvío por correo electrónico|El virus se enviaba automáticamente a todos los contactos del usuario infectado.|
 |Robo de contraseñas|Extraía información sensible del sistema, incluyendo contraseñas almacenadas en el registro de Windows.|
 |Propagación en redes locales|Intentaba propagarse a través de las redes compartidas, infectando otros equipos en la misma red.|
