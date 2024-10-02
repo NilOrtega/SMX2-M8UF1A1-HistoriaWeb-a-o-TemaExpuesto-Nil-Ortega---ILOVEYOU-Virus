@@ -8,7 +8,11 @@
 
 [-](https://www.youtube.com/watch?v=aLJzHrBvsEY/ "ILOVEYOU-virus Video"
 
+
+
 ![LOVE](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-Nil-Ortega---ILOVEYOU-Virus/blob/main/LOVE.png "Titulo opcional de la imagen")
+
+
 
 ¿Qué es lo que hacia?
 
@@ -19,6 +23,8 @@ la informática.*
 
 
 ![SC](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-Nil-Ortega---ILOVEYOU-Virus/blob/main/SC.png "Titulo opcional de la imagen")
+
+
 
 |Acción del virus| Descripción|
 |---------------|---------------|
