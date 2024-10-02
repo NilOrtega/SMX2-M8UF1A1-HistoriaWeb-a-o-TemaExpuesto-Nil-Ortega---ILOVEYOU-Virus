@@ -17,8 +17,7 @@
 ¿Qué es lo que hacia?
 
 
-*Una vez activado, el virus sobrescribía archivos, robaba información y se enviaba automáticamente a todos los contactos de la libreta de direcciones del usuario, lo que causó una rápida propagación mundial. Afectó a millones de computadoras y causó daños económicos estimados en miles de millones de dólares. Fue uno de los virus más destructivos y notorios de la historia de 
-la informática.*
+*Una vez activado, el virus sobrescribía archivos, robaba información y se enviaba automáticamente a todos los contactos de la libreta de direcciones del usuario, lo que causó una rápida propagación mundial.*
 
 
 
