@@ -6,7 +6,7 @@
 
 
 
-[-](https://www.youtube.com/watch?v=aLJzHrBvsEY/ "ILOVEYOU-virus Video"
+[Video link ILOVEYOU-virus](https://www.youtube.com/watch?v=aLJzHrBvsEY/ "ILOVEYOU-virus Video"
 
 
 
@@ -24,10 +24,3 @@
 ![SC](https://github.com/NilOrtega/SMX2-M8UF1A1-HistoriaWeb-a-o-TemaExpuesto-Nil-Ortega---ILOVEYOU-Virus/blob/main/SC.png "Titulo opcional de la imagen")
 
 
-
-|Acción del virus| Descripción|
-|---------------|---------------|
-|Autoenvío por correo electrónico|El virus se enviaba automáticamente a todos los contactos del usuario infectado.|
-|Robo de contraseñas|Extraía información sensible del sistema, incluyendo contraseñas almacenadas en el registro de Windows.|
-|Propagación en redes locales|Intentaba propagarse a través de las redes compartidas, infectando otros equipos en la misma red.|
-|Modificación de archivos|Sobrescribía archivos en el sistema con copias del gusano, especialmente archivos de imagen, sonido y texto (.jpg, .mp3, .txt, etc.).|
